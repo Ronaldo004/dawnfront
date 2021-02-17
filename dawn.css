@@ -1,0 +1,116 @@
+#too{
+    color: gray;
+}
+#hen{
+    margin-left:30px ;
+    letter-spacing: 1px;
+   font-size: small;
+   border-bottom: rgb(94, 139, 141);
+  
+  
+
+   
+     
+}
+#dog{
+    padding: 6%;
+ 
+}
+#li{
+    margin-left: 80px;
+    border: none;
+}
+.bull{
+font-size: smaller;
+color: cornsilk;
+
+
+
+}
+#mam{
+    background-color: black;
+    
+    
+    
+
+}
+#ki{
+    border: none;
+    background-color: rgb(206, 197, 197);
+}
+#lip{
+    vertical-align: text-top;
+}
+.nil{
+    font-size: 230%;
+    background-color: cornsilk;
+}
+.pan{
+font-size: 80%;
+font-family:'Courier New', Courier, monospace;
+
+}
+#lip{
+    font-size: 130%;
+    
+}
+  
+    
+
+#op{
+    margin-left: 65px;
+    border: 1px solid #ccc;
+    
+    
+}
+#mis{
+    border: 1px solid #ccc;
+}
+
+#sy{
+    margin-left: 65px;
+    border: 1px solid #ccc;
+    
+}
+#pif{
+    border: 1px solid #ccc;
+  
+}
+
+
+
+.jic:link{
+    color: black;
+
+
+}
+
+  
+.jic:visited{
+    color: thistle;
+}
+.jic:hover{
+     color:tomato;
+    }
+.jic:active {
+    color:rgb(185, 121, 121);
+}
+.yip:link{
+    color:white;
+  
+}
+.yip:visited{
+    color: thistle;
+}
+.yip:hover{
+     color:greenyellow;
+    }
+.jic:active {
+    color:rgb(185, 121, 121);
+}
+.pip{
+    color:red;
+}
+textarea{
+    border: 1px solid #ccc;
+}
